@@ -1,0 +1,18 @@
+.ui-combobox {
+direction: rtl;
+font-size: 15pt;
+height: 20px;
+overflow: hidden;
+width: 150px;
+}
+
+
+.ui-combobox select{
+background: white;
+border: none;
+font-size: 14px;
+height: 20px;
+padding: 5px;
+width: 150px;
+color: white;
+}
